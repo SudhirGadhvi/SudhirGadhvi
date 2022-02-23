@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [CAE](https://www.cae.com/) as a Senior Software Engineer.
 - 📱 I'm currently working on [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
-- 📫 How to reach me: Email - sudhirgadhviwork@gmail.com | Instagram - @mrsudhirgadhvi
+- 📫 How to reach me: Email - sudhirgadhviwork@gmail.com
 - ⚡ Fun fact: I used to want to be a professional singer.
 
 **Languages and Tools:**  
@@ -25,9 +25,11 @@
 
 
 ### Connect with me:
-[<img align="left" alt="sudhirgadhvi7 | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="sudhirgadhvi | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="sudhirgadhvi | Instagram" width="25px" src="./icons/linkedin.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/sudhirgadhvi7/
+[instagram]: https://www.instagram.com/mrsudhirgadhvi
 [swift]: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 [ios]: https://developer.apple.com/ios/
 [vscode]: https://code.visualstudio.com

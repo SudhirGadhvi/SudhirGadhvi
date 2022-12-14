@@ -26,10 +26,8 @@
 
 ### Connect with me:
 [<img align="left" alt="sudhirgadhvi | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="sudhirgadhvi | Instagram" width="25px" src="./icons/instagram.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/sudhirgadhvi7/
-[instagram]: https://www.instagram.com/mrsudhirgadhvi
 [swift]: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 [ios]: https://developer.apple.com/ios/
 [vscode]: https://code.visualstudio.com

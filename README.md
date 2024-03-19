@@ -1,7 +1,7 @@
 ### Hi There! 👋
 
 - 🔭 I’m currently working at [Duco Consultancy](https://www.ducoconsultancy.com) as a Senior Software Engineer.
-- 📱 One of the apps I hold dear is [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone) where I served as a Senior Software Engineer collaborating with [CAE](https://www.cae.com/) as a Senior Software Engineer.
+- 📱 One of the apps I hold dear is [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone) where I served as a Senior Software Engineer collaborating with [CAE](https://www.cae.com/).
 - 📫 How to reach me: Email - sudhirgadhviwork@gmail.com
 - ⚡ Fun fact: I used to want to be a professional singer.
 

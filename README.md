@@ -1,9 +1,19 @@
-### Hi There! 👋
+### Hi there 👋
 
-- 🔭 I’m currently working at [PicYourMoment](https://picyourmoment.nl/) as a Chief Product Officer.
-- 📱 One of the apps I hold dear is [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone) where I served as a Senior Software Engineer at [CAE](https://www.cae.com/).
-- 📫 How to reach me: Email - sudhirgadhviwork@gmail.com
-- ⚡ Fun fact: I used to want to be a professional singer.
+I'm **Sudhir Gadhvi**, Founder & CEO at [KLYRO](https://klyro.tech),  a product studio that helps startups and enterprises scale their mobile and web applications.  
+I lead product strategy and hands-on engineering across iOS, backend, and AI-driven systems.
+
+Currently leading product and iOS development for [PicYourMoment](https://picyourmoment.nl/)** through KLYRO — helping scale to 750K+ users globally.
+
+Before that, I worked on **[RosterBuster](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)** at [CAE](https://www.cae.com/), one of the most widely used aviation crew apps globally.
+
+- 🚀 Building digital products that scale at **KLYRO**
+- 📈 Passionate about product-led growth, AI integrations, and mobile-first experiences
+- 🧠 11+ years of hands-on experience across engineering, design, and product
+- 📫 Reach me: **contact@klyro.tech**
+- 🌏 Visit: [KLYRO](https://klyro.tech)
+
+---
 
 **Languages and Tools:**  
 
@@ -27,7 +37,7 @@
 ### Connect with me:
 [<img align="left" alt="sudhirgadhvi | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/sudhirgadhvi7/
+[linkedin]: https://www.linkedin.com/in/sudhirgadhvi
 [swift]: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 [ios]: https://developer.apple.com/ios/
 [vscode]: https://code.visualstudio.com

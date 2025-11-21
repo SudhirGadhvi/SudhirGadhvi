@@ -3,9 +3,9 @@
 I'm **Sudhir Gadhvi**, Founder & CEO at [KLYRO](https://klyro.tech),  a product studio that helps startups and enterprises scale their mobile and web applications.  
 I lead product strategy and hands-on engineering across iOS, backend, and AI-driven systems.
 
-Currently leading product and iOS development for [PicYourMoment](https://picyourmoment.nl/)** through KLYRO — helping scale to 750K+ users globally.
+Currently leading product and iOS development for [PicYourMoment](https://picyourmoment.nl/)** through KLYRO, helping scale to 750K+ users globally.
 
-Before that, I worked on **[RosterBuster](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)** at [CAE](https://www.cae.com/), one of the most widely used aviation crew apps globally.
+A key chapter in my career was building **[RosterBuster](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)** at [CAE](https://www.cae.com/), one of the most widely used aviation crew apps globally.
 
 - 🚀 Building digital products that scale at **KLYRO**
 - 📈 Passionate about product-led growth, AI integrations, and mobile-first experiences

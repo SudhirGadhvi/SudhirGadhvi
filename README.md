@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 I'm **Sudhir Gadhvi**,
-I lead product strategy and hands-on engineering across iOS, backend, and AI-driven systems.
+AI Product Manager & Solutions Architect specializing in scaling innovative tech products with AI integrations, hands-on engineering, and strategic vision across iOS, backend, and multilingual systems.
 
-Currently leading product and iOS development for [PicYourMoment](https://picyourmoment.nl/), helping scale to 750K+ users globally.
+Currently leading AI product strategy and solutions architecture for [PicYourMoment](https://picyourmoment.nl/), integrating generative AI and ML models to personalize experiences and scale to 750K+ users globally.
+
+Founder of **[Open Vernacular AI Kit](https://github.com/SudhirGadhvi/open-vernacular-ai-kit)**, an open-source toolkit for multilingual LLMs handling Indian dialects and code-mixing in Roman script.
 
 A key chapter in my career was building **[RosterBuster](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)** at [CAE](https://www.cae.com/), one of the most widely used aviation crew apps globally.
 
-- 📈 Passionate about product-led growth, AI integrations, and mobile-first experiences.
-- 🧠 11+ years of hands-on experience across engineering, design, and product.
+- 📈 Passionate about AI-driven growth, vernacular AI solutions, edge computing, and mobile-first innovations.
+- 🧠 11+ years of hands-on experience across AI product management, solutions architecture, engineering, design, and product leadership.
+
 
 ---
 
